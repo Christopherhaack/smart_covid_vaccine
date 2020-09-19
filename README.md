@@ -1,0 +1,2 @@
+# smart_covid_vaccine
+this repository is meant to be a public repository with information around how best to distribute a vaccine in the USA upon release. It allows as a variable the number of vaccines currently available and the amount already given out to determine where to give vaccines next. Specifically we believe we can save lives by identifying the most at risk areas and getting vaccines to there first.
